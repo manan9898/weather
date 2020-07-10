@@ -14,7 +14,6 @@
   
   <p> The whole project is deployed on Heroku Cloud.
   
- <p> Here is the link where you can access the project live : https://daily-weatherapp.herokuapp.com/ <p>
   <p> Thank you!</p>
                                         
                                                         
