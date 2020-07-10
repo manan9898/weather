@@ -13,7 +13,7 @@
   </ul>
   
   <p> The whole project is deployed on Heroku Cloud.
-  <p><link href="https://weather9898.herokuapp.com"></p>
+  <p><a href="https://weather9898.herokuapp.com/">Visit app</a></p>
   
   <p> Thank you!</p>
                                         
